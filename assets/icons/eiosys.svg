@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="51" viewBox="0 0 105 51">
+  <defs>
+    <filter id="eiosys" x="0" y="0" width="105" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9981" data-name="Group 9981" transform="translate(-138 -754)">
+    <text id="Admin_panel_by" data-name="Admin panel by" transform="translate(169 766)" fill="#e5e5e5" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Admin panel by</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 138, 754)" filter="url(#eiosys)">
+      <text id="eiosys-2" data-name="eiosys" transform="translate(3 37)" fill="#e5e5e5" font-size="34" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">eiosys</tspan></text>
+    </g>
+  </g>
+</svg>
